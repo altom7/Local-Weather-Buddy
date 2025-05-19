@@ -6,7 +6,7 @@
 
 ## 🔗 Live Demo
 
-https://vercel.com/new/alex-martinis-projects-c52aae0d/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=local-weather-buddy-h6mtkrb8o-alex-martinis-projects-c52aae0d.vercel.app&projectName=local-weather-buddy&s=https%3A%2F%2Fgithub.com%2Faltom7%2FLocal-Weather-Buddy&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1&flow-id=FdhGk8Fme7umhhFP02lMY
+https://local-weather-buddy.vercel.app/
 
 ---
 
