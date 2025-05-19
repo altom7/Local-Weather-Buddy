@@ -31,4 +31,3 @@ https://local-weather-buddy.vercel.app/
 
 ---
 
-## 📁 File Structure
