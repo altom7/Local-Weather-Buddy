@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Local Weather Buddy</title>
+  <link rel="stylesheet" href="INST377-FinalProject-AlexMartini.css">
+</head>
+<body class="weather-page">
+  <h1>Local Weather Buddy</h1>
+  <p>Enter a city or ZIP code to get the current weather:</p>
+
+  <input type="text" id="city-input" placeholder="e.g., New York or 10001">
+  <button id="search-button">Get Weather</button>
+
+  <div id="weather-result"></div>
+
+  <div id="audio-box">
+    <h3>Voice Commands</h3>
+    <ul>
+      <li>Say: "Get weather for New York"</li>
+      <li>Say: "Change the color to blue"</li>
+    </ul>
+    <button onclick="annyang.start()">Start Listening</button>
+    <button onclick="annyang.abort()">Stop Listening</button>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/annyang/2.6.1/annyang.min.js"></script>
+  <script src="INST377-FinalProject-AlexMartini.js"></script>
+</body>
+</html>
